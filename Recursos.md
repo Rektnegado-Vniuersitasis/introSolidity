@@ -20,6 +20,12 @@ Listado de recursos para aprender sobre Ethereum y Solidity
 * [Ethereum Blockchain Developer Bootcamp With Solidity (2021) - Udemy](https://www.udemy.com/course/blockchain-developer/) 💰 🇺🇸
   *Complete Solitidy Course*. Become An Ethereum Blockchain Developer With One Course. Master Solidity, Web3.JS, Truffle, Metamask, Remix & More!
 
+* [ConsenSys. Get Started with Ethereum](https://consensys.net/developers/) 🇺🇸
+  *Guía de Consensys para ser desarrollador* Se divide en tres secciones:
+  1. Haz tu primera transacción
+  2. Crea un Smart Contract
+  3. Lanza tu aplicación descentralizada (Dapp)
+
 ### Tutoriales en video
 
 * [Tutoriales de Solidity en español](https://www.youtube.com/playlist?list=PL-jD2YjEmwDqWgkBOiXEEXlHsiAUIqfM5)
@@ -44,7 +50,7 @@ Listado de recursos para aprender sobre Ethereum y Solidity
 
 ### Seguridad
 
-*[Immunefi](https://immunefi.com/learn/) 🇺🇸
+* [Immunefi](https://immunefi.com/learn/) 🇺🇸
 
 ### Libros
 
@@ -52,24 +58,23 @@ Listado de recursos para aprender sobre Ethereum y Solidity
   *Libro de la editorial O'Reilly*. Autores: Kevin Solorio, Randall Kanna, & Dave Hoover.
 
 * [Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com.mx/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940/ref=pd_sim_1?pd_rd_w=Hmbvt&pf_rd_p=b1f18791-6f3c-4122-92c7-39751234c45d&pf_rd_r=ZCMJ2FN4DY91H73H6WEX&pd_rd_r=decdaa66-e18d-4aa1-ae9a-fad776311d10&pd_rd_wg=OCi4p&pd_rd_i=1491971940&psc=1) 💰 🇺🇸
-  *Libro de la editorial O'Reilly*. Autor: Andreas M. Antonopoulos
+  *Libro de la editorial O'Reilly*. Autor: Andreas M. Antonopoulos, Gavin Wood
 
 ### Documentación
 
-*[Docs Solidity](https://docs.soliditylang.org/en/v0.8.0/) 🇺🇸
+* [Docs Solidity](https://docs.soliditylang.org/en/v0.8.0/) 🇺🇸
 
-*[Docs Solidity en español](https://solidity-es.readthedocs.io/es/latest/)
+* [Docs Solidity en español](https://solidity-es.readthedocs.io/es/latest/)
 
 ### Retos
 
-*[VulnerableDeFi](https://www.damnvulnerabledefi.xyz/) 🇺🇸
+* [VulnerableDeFi](https://www.damnvulnerabledefi.xyz/) 🇺🇸
 
-*[Capture the Ether](https://capturetheether.com/) 🇺🇸
+* [Capture the Ether](https://capturetheether.com/) 🇺🇸
 
 ### Blogs
 
-*[Program the Blockchain](https://programtheblockchain.com/) 🇺🇸
+* [ConsenSys Blog](https://consensys.net/blog/) 🇺🇸
 
-
-
+* [Program the Blockchain](https://programtheblockchain.com/) 🇺🇸
   
